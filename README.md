@@ -1,6 +1,9 @@
+DSchreck
+June 9, 2016
+
 ## Summary
 
-All assignment have been added, both .R code and .png files for completion of Exploratory Data Analysis course, part of Coursera's Data Science specialization track. These files attempt to reproduce a series of four plots using data that examines how household energy usage varies over a 2-day period between 2007-02-01 and 2007-02-02. 
+All assignments have been added, both .R code and .png files for completion of Exploratory Data Analysis course, part of Coursera's Data Science specialization track. These files attempt to reproduce a series of four plots using data that examines how household energy usage varies over a 2-day period between 2007-02-01 and 2007-02-02. 
 
 
 ## Introduction
